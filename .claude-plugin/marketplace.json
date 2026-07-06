@@ -1,0 +1,18 @@
+{
+  "name": "ola-cp-travel-advice-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "Cruise Travel Advice 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ola-cp-travel-advice",
+      "source": "./plugins/ola-cp-travel-advice",
+      "description": "提供关于邮轮旅行的实用建议，包括行前准备、最佳出发时间及目的地推荐，帮助您规划完美的邮轮之旅。",
+      "version": "0.1.0"
+    }
+  ]
+}
